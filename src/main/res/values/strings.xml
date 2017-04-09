@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name"><b>Amino Acids Biochemistry Quiz</b></string>
+    <string name="action_settings">Settings</string>
+    <string name="intro">Answer these 5 questions to check if you are well prepared for your biochemistry classes!</string>
+    <string name="q1">1. Which of the amino acids below is described properly? (1 p.)</string>
+    <string name="q1a">a. tryptophan - heterocyclic, alkaline</string>
+    <string name="q1b">b. leucine - ketogenic, egzogenic</string>
+    <string name="q1c">c. methionine - glucogenic, endogenic</string>
+    <string name="q1d">d. proline - alifatic, ketogenic</string>
+    <string name="q1e">e. valine - egzogenic, glucogenic</string>
+    <string name="q2">2. Which of the amino acids below is not synthesized from aspartate? (1 p.)</string>
+    <string name="q2a">a. threonine</string>
+    <string name="q2b">b. lysine</string>
+    <string name="q2c">c. methionine</string>
+    <string name="q2d">d. cysteine</string>
+    <string name="q2e">e. no answer is correct</string>
+    <string name="q3">3. Mark <b><u>true</u></b> sentences: (2 p.)</string>
+    <string name="q3a">a. Enzymatic degradation of phenylalanine requires biopterin as a cofactor.</string>
+    <string name="q3b">b. People with defects in phenylalanine catabolism <u>require</u> tyrosine intake.</string>
+    <string name="q3c">c. Unability to hydroxylate phenylalanine results in its higher concentration in blood and in intellectual disability.</string>
+    <string name="q4">4. Mono-amino-dicarboxylic amino acids are: (2 p.)</string>
+    <string name="q4a">a. glutamate</string>
+    <string name="q4b">b. aspartate</string>
+    <string name="q4c">c. leucine</string>
+    <string name="q4d">d. cysteine</string>
+    <string name="q4e">e. glycine</string>
+    <string name="q5">5. Choose from the amino acids below and fill the gaps (in alphabetical order). (3 p.)</string>
+    <string name="q5aa"><b>Trp, Asp, Asn, Phe, Val, Ile, Met, His, Glu, Gln, Leu, Gly, Ala</b></string>
+    <string name="q5_2">Carbon chain of some amino acids can be introduced to TCA cycle (picture) as different compounds. Which amino acids can be introduced as:</string>
+    <string name="q5a">succinyl-CoA: </string>
+    <string name="q5b">fumarate: </string>
+    <string name="q5c">oxaloactetate: </string>
+    <string name="q5_hint">Your answer</string>
+    <string name="submit">submit</string>
+</resources>
